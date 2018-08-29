@@ -18,7 +18,7 @@ var tipuesearch = {"pages": [
      
      
      
-     {"title": "The problem of constituencies", "text": "Democracy is &amp;#8216;One Person, One Vote&#39;. There&#39;s more to than that, but in those four words you get across the always radical idea that one person&#39;s vote should never be worth more than another&#39;s.", "tags": "", "url": "index.html#2.1485.ulboe.j3_a-.wdzqo.jaevi"},
+     {"title": "The problem of constituencies", "text": "Democracy is &amp;#8216;One Person, One Vote&#39;. There&#39;s more to it than that, but in those four words you get across the always radical idea that one person&#39;s vote should never be worth more than another&#39;s.", "tags": "", "url": "index.html#2.1485.dcne1.j3_a-.wdzqo.j9j4k"},
      
      {"title": "The problem of constituencies", "text": "But as soon as you have multiple constituencies you have a problem with this. If I&#39;m one of 100 voters in one area, and you&#39;re one of 1000 in another &amp;#8211; my vote is worth more than yours. If you care about everyone&#39;s say being equal you now need to begin a never-ending balancing act that constantly moves the lines to keep the population of constituencies as similar as possible.", "tags": "", "url": "index.html#2.2265.l6e0r.dyrn3.jyz8w.nqi_u"},
      
