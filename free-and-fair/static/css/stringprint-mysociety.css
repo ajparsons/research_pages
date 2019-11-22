@@ -17,14 +17,8 @@ overflow:hidden;
 height:500;
 }
 
-
 .navbar-default .navbar-brand {
     color: #fff;
-}
-
-hr {
-border-top: 1px solid #333333;
-width:50%;
 }
 
 body {
@@ -58,7 +52,6 @@ background-color: #FFD836;
     background-color: #4FADED;
 }
 
-
 .navbar-default .navbar-nav > li > a:hover, 
 .navbar-default .navbar-nav > li > a:focus {
     color: #FFFFFF;
@@ -75,6 +68,9 @@ background-color:f3f1eb;
     color: #FFFFFF;
 }
 
+.mobile-header-link > i{
+    color: #FFFFFF;
+}
 #download-link > a {
 color:#E04B4B;
 }
@@ -109,6 +105,12 @@ font-weight:normal;
 .action-buttons{
 background-color:#fff;
 border-radius: 25px;
+}
+
+#home-link{
+ border-radius: 25px;
+ width:50px;
+ text-align: center;
 }
 
 .navbar-default .navbar-toggle .icon-bar {
