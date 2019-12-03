@@ -673,7 +673,7 @@ $(window).on("load", function () {
           return gotoHash(hash,true);
           } else {
               if (hash != "#start") {
-                hash = hash.replace("#",""))
+                hash = hash.replace("#","")
                 section = $('.anchor[name ="' + hash + '"]').first()
                 id = section.attr("id");
                 title = $("#"+id +".section-anchor").text()
