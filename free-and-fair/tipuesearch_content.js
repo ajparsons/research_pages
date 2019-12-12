@@ -68,7 +68,7 @@ var tipuesearch = {"pages": [
      
      {"title": "Broken Promises", "text": "Woolas was initially found guilty of having made three unfactual statements in publications about Watkins. The full documents can be read at the bottom of the decision but to summarise Woolas these statements were:", "tags": "", "url": "index.html#2.7052.yhv6o.s_kq8.rirvq.rgbdx"},
      
-     {"title": "Broken Promises", "text": "Claiming that Watkins was seeking to woo the vote of Muslims who advocated violence against Woolas;Claiming that Watkins refused to condemn Muslims who advocated violence against Woolas;Claiming tha Watkins had broken a promise to live in the constituency.^*", "tags": "", "url": "index.html#2.5981.cdcxb.vmpyk.cv4y1.yfsch"},
+     {"title": "Broken Promises", "text": "Claiming that Watkins was seeking to woo the vote of Muslims who advocated violence against Woolas;Claiming that Watkins refused to condemn Muslims who advocated violence against Woolas;Claiming that Watkins had broken a promise to live in the constituency.^*", "tags": "", "url": "index.html#2.5981.vcr2j.vmpyk.cv4y1.yfsch"},
      
      {"title": "Broken Promises", "text": "The statements were also intermingled with attacks on Watkins&#39; political stances. In the Election Court&#39;s judgement the personal attacks could be separated from the politics:", "tags": "", "url": "index.html#2.7056.6c6hh.c-si8.kph4c.qlold"},
      
