@@ -92,7 +92,7 @@ var tipuesearch = {"pages": [
      
      
      
-     {"title": "Boundaries are Political", "text": "Arguments about boundaries aren&#39;t really abstract discussion of &amp;#8216;community&#39; vs &amp;#8216;individual&#39; representation &amp;#8211; they&#39;re arguments about outcomes. Drawing one set of lines rather than another results in different people being elected, different governments being formed and different policies being enacted. Boundary drawing in an inherently political act. ", "tags": "", "url": "index.html#3.7278.rsyev.grxmj.ejn_i.4_pst"},
+     {"title": "Boundaries are Political", "text": "Arguments about boundaries aren&#39;t really abstract discussion of &amp;#8216;community&#39; vs &amp;#8216;individual&#39; representation &amp;#8211; they&#39;re arguments about outcomes. Drawing one set of lines rather than another results in different people being elected, different governments being formed and different policies being enacted. Boundary drawing is an inherently political act. ", "tags": "", "url": "index.html#3.7278._uih8.grxmj.ejn_i.4_pst"},
      
      {"title": "Boundaries are Political", "text": "In the UK we might feel superior when looking at the nakedly political US system of line drawing, but in reality our arguments about boundaries are no less political &amp;#8211; we just dress them up in neutral language. Conservatives like boundary reviews and tighter mathematical precision because it&#39;s good for them &amp;#8211; Labour like organic constituencies and less frequent reviews because of the reverse. It&#39;s hard to imagine if the demographic situations was reversed they wouldn&#39;t switch arguments. ", "tags": "", "url": "index.html#3.8795.cpnx3.gaidd.etyp_.b9g7t"},
      
