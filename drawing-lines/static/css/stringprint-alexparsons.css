@@ -37,9 +37,7 @@ body, .content-row, .footnote_list, .index{
 background-color: #f3eddb;
 }
 
-.content-row, .footnote_list{
-padding: 5px;
-}
+
 
 .content-row, p.byline, p.other-formats-text, .icon-link, #tipue_search_content{
 background-color: #f3eddb;
@@ -53,12 +51,16 @@ h1::after, h2::after {
 display: none;
 }
 
-p.byline, p.other-formats-text, p.article_title, h1, h2, h3{
+p.byline, p.other-formats-text, p.article_title{
   background-color: #f3eddb;
   padding-left: calc(50vw - 50% - 5px);
   margin-left:  calc(50% - 50vw + 5px);
   padding-right: calc(50vw - 50% - 5px);
   margin-right:  calc(50% - 50vw + 5px);
+}
+
+.content-row, .footnote_list{
+padding: 5px;
 }
 
 @media (max-width: 767px) {
@@ -68,6 +70,11 @@ p.byline, p.other-formats-text, p.article_title, h1, h2, h3{
   padding-right: inherit;
   margin-right:  inherit;
 }
+
+.content-row, .footnote_list{
+  padding: inherit;
+}
+
 {
 
 h1#toc{
