@@ -1,6 +1,3 @@
-body {
-background-color: #f3eddb;
-}
 
 hr {
 border-top: 1px solid #756969;
@@ -11,6 +8,15 @@ width:50%
 background-color:#f7e3b9;
 border-left: 10px solid #debe3e;
 }
+
+body {
+	font-size: 14pt;
+}
+
+p {
+	text-align: left;
+}
+
 
 .footnote_list> p {
     text-align: left;
@@ -36,8 +42,53 @@ color:#62B356;
 color:#0089ff;
 }
 
-.container, .content-row{
+body, .content-row, .footnote_list, .index{
 background-color: #f3eddb;
 }
 
 
+
+.content-row, p.byline, p.other-formats-text, .icon-link, #tipue_search_content{
+background-color: #f3eddb;
+}
+
+.header-icon{
+background-color: inherit;
+}
+
+h1::after, h2::after {
+display: none;
+}
+
+p.byline, p.other-formats-text, p.article_title{
+  background-color: #f3eddb;
+  padding-left: calc(50vw - 50% - 5px);
+  margin-left:  calc(50% - 50vw + 5px);
+  padding-right: calc(50vw - 50% - 5px);
+  margin-right:  calc(50% - 50vw + 5px);
+}
+
+.content-row, .footnote_list{
+padding: 5px;
+}
+
+@media (max-width: 767px) {
+p.byline, p.other-formats-text, p.article_title, h1, h2, h3{
+  padding-left: inherit;
+  margin-left:  inherit;
+  padding-right: inherit;
+  margin-right:  inherit;
+}
+
+.content-row, .footnote_list{
+  padding: inherit;
+}
+
+{
+
+h1#toc{
+  padding-left: 20px;
+  margin-left:  20px;
+  padding-right: 20px;
+  margin-right:  20px;
+}
