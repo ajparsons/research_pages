@@ -1,0 +1,24 @@
+		
+body{
+	overflow: hidden;
+}
+
+nav {
+	display: none;
+}
+
+.hide-link{
+	display:none;
+}
+
+.extended-row,.extended {
+	display: block;
+}
+
+.container,.content-row, .content {
+	background-color: #F1F3EB
+}
+
+.first-sentence{
+	font-weight:bold
+}
