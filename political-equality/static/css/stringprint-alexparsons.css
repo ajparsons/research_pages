@@ -56,7 +56,7 @@ background-color: #f3eddb;
 background-color: inherit;
 }
 
-h1::after, h2::after {
+.index::after {
 display: none;
 }
 

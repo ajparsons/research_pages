@@ -26,7 +26,7 @@ var tipuesearch = {"pages": [
      
      
      
-     {"title": "Universal Suffrage", "text": "It doesn&#39;t matter who you are, your vote should count the same", "tags": "", "url": "index.html#3.10.6dbyi.6ko36.8_mxo.nkwy0"},
+     {"title": "Universal Suffrage", "text": "It doesn&#39;t matter who you are, your vote should count the same", "tags": "", "url": "index.html#3.10.vwn-z.tdwos.9as-w.2zbfm"},
      
      {"title": "Universal Suffrage", "text": "This is supposed to be the straightforward and easily passed requirement, but the interesting thing about how Still defines this requirement is how quickly he qualifies it:", "tags": "", "url": "index.html#3.11.vbf78.k-m_m.imonu.lilfm"},
      
@@ -42,7 +42,7 @@ var tipuesearch = {"pages": [
      
      
      
-     {"title": "Equal Shares", "text": "It doesn&#39;t matter where you are, your vote should count the same ", "tags": "", "url": "index.html#4.17.3ejoy.6ko36.gaitp.nkwy0"},
+     {"title": "Equal Shares", "text": "It doesn&#39;t matter where you are, your vote should count the same ", "tags": "", "url": "index.html#4.17.gme5g.tdwos.v56ji.2zbfm"},
      
      {"title": "Equal Shares", "text": "This is specifically a problem of elections based on multiple districts/constituencies. When you divide one polity into multiple constituencies you are creating isolated populations of voters. If these constituencies are different sizes, then the people in each do not have equal shares in the election.", "tags": "", "url": "index.html#4.18.x0sea.vffwe.sgbun.iq-nz"},
      
@@ -54,7 +54,7 @@ var tipuesearch = {"pages": [
      
      
      
-     {"title": "Independence", "text": "It doesn&#39;t matter which party/candidate you vote for, your vote should count the same", "tags": "", "url": "index.html#5.22.inhmy.6ko36.8_mxo._xgl2"},
+     {"title": "Independence", "text": "It doesn&#39;t matter which party/candidate you vote for, your vote should count the same", "tags": "", "url": "index.html#5.22.av-wy.tdwos.9as-w.i0tfz"},
      
      {"title": "Independence", "text": "This criteria is addressing the issue that the previous two (which are more commonly seen) are disconnected from outcomes. There are any number of electoral designs that allow equality of participation, but where the structure distorts outcomes so that people&#39;s preferences are not treated equally even if their votes are.", "tags": "", "url": "index.html#5.23.cblrq.qbltt.snwvh.dubic"},
      
@@ -88,7 +88,7 @@ var tipuesearch = {"pages": [
      
      
      
-     {"title": "Proportional Representation", "text": "Everyone should have the representation they want", "tags": "", "url": "index.html#6.38.qwrra.toy8t.ixiwu.sanxh"},
+     {"title": "Proportional Representation", "text": "Everyone should have the representation they want", "tags": "", "url": "index.html#6.38.9a7ho.bpln8.jdwq_.c_tjz"},
      
      {"title": "Proportional Representation", "text": "Proportional representation can be understood as a stricter restating of equal shares. This time voters should expect an equal share of a representative they support as opposed to a representative in general. Again, this is taking something generally described a group right (parties should be entitled seats in relation to the votes they received) and reframing it as an individual right: you should have the representation that you want. ", "tags": "", "url": "index.html#6.39.ria_f.9uxwg.npvsw.s0fe6"},
      
