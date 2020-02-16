@@ -4,7 +4,7 @@
 var tipuesearch = {"pages": [
      
      
-     {"title": "Summary", "text": "Jonathan Still&#39;s six criteria for political equality provide a useful structure for evaluating election systems. These provide an escalating set of criteria where a system may pass lower requirements but fail higher ones.Several of his criteria can be grouped into a single Independence test - requiring that the choices of one voter should not change the impact of another. The criteria provide ways of reframing group rights to representation as expressions of individual rights.With the higher criteria, trade-offs between political equality become more apparent. ", "tags": "", "url": "index.html#1.1.anuke.cfmsa.ebixv.l1iwy"},
+     {"title": "Summary", "text": "Jonathan Still&#39;s six criteria for political equality provide a useful structure for evaluating election systems. Several of his criteria can be grouped into a single Independence test - requiring that the choices of one voter should not change the impact of another. The criteria provide ways of reframing group rights to representation as expressions of individual rights.With the higher criteria, trade-offs between political equality and other factors become more apparent. ", "tags": "", "url": "index.html#1.1.prnqz.cfmsa.ebixv.rm10a"},
      
      {"title": "Summary", "text": "Header image: Photo by Ryan Moreno on Unsplash", "tags": "", "url": "index.html#1.2.ohami.vptqm.0fpk_.-uwoz"},
      
