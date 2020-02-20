@@ -42,11 +42,16 @@ color:#62B356;
 color:#0089ff;
 }
 
-body, .content-row, .footnote_list, .index{
+body, .content-row, .footnote_list, .index, .page-content, .section-anchor>h1{
 background-color: #f3eddb;
 }
 
-
+.peage-content {
+	height:100%;
+	width: 66.66666667%;
+    margin-left: 16.66666667%;
+    margin-right: 20px;
+}
 
 .content-row, p.byline, p.other-formats-text, .icon-link, #tipue_search_content{
 background-color: #f3eddb;
