@@ -44,14 +44,15 @@ background-color: #f3eddb;
 }
 
 body {
-font-size: 14pt;
+font-size: 12pt;
 }
 
 @media (min-width: 767px) {
 body {
 background-repeat: repeat;
 background-position: center top;
-  background-image: url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAYAAACNMs+9AAAAJElEQVQoU2NkYGD4//ntbQZCgPHz29v/CSkCyY8qxBtKRAcPAHc/JU8zmgkUAAAAAElFTkSuQmCC"); 
+  background-image: url("Hollowed-Boxes.svg"); 
+  /* background by SVGBackgrounds.com */
 }
 }
 
