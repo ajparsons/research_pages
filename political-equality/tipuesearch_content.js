@@ -6,7 +6,7 @@ var tipuesearch = {"pages": [
      
      {"title": "Summary", "text": "Jonathan Still&#39;s six criteria for political equality provide a useful structure for evaluating election systems. Several of his criteria can be grouped into a single Independence test - requiring that the choices of one voter should not change the impact of another. The criteria provide ways of reframing group rights to representation as expressions of individual rights.With the higher criteria, trade-offs between political equality and other factors become more apparent. ", "tags": "", "url": "index.html#1.1.prnqz.cfmsa.ebixv.rm10a"},
      
-     {"title": "Summary", "text": "Header image: Photo by Ryan Moreno on Unsplash", "tags": "", "url": "index.html#1.2.ohami.vptqm.0fpk_.-uwoz"},
+     {"title": "Summary", "text": "Header image: Photo by Andrew Ridley on Unsplash", "tags": "", "url": "index.html#1.2.pzjc5.vptqm.0fpk_.6m2xz"},
      
      
      
@@ -20,7 +20,7 @@ var tipuesearch = {"pages": [
      
      {"title": "Introduction", "text": "While these are conceptually useful separations, I think it is fair to say they are not entirely clear on a first read. This set can be reframed as the following points:", "tags": "", "url": "index.html#2.7.pfxwj.vhmjq.ufgdc.z1uvo"},
      
-     {"title": "Introduction", "text": "It doesn&#39;t matter who you are, your vote should count the same (Suffrage)It doesn&#39;t matter where you are, your vote should count the same (Shares)It doesn&#39;t matter which party/candidate you vote for, your vote should count the same (Independence)If you change your vote from one party to another, it should have the same impact as anyone else making the same switch (Equal probabilities)If you swap your vote with anyone else, it should make no difference (Anonymity)The weighting of your vote should not change depending how others vote (Majority rule)Everyone should have the representation they want (Proportional Representation)", "tags": "", "url": "index.html#2.8.-cxnv.tdwos.lslao.iwiv9"},
+     {"title": "Introduction", "text": "It doesn&#39;t matter who you are, your vote should count the same (Suffrage)It doesn&#39;t matter where you are, your vote should count the same (Shares)It doesn&#39;t matter which party/candidate you vote for, your vote should count the same (Independence)If you change your vote from one party to another, it should have the same impact as anyone else making the same switch (Equal probabilities)If you swap your vote with anyone else, it should make no difference (Anonymity)The weighting of your vote should not change depending how others vote (Majority rule)Everyone should have the representation they want (Proportional representation)", "tags": "", "url": "index.html#2.8.kyyna.tdwos.lslao.iwiv9"},
      
      {"title": "Introduction", "text": "There are two major changes in how I understand these criteria versus how Still presents them. The first is that Equal Probabilities, Anonymity and Majority Rule are not relevant to all elections, and so it is more straightforward to present them as different elements of the same general issue, which I&#39;ve labelled Independence. The second is that while Still generally presents these as binary criteria to pass or fail, I think they make more sense as scales where different systems can be graded against a perfect ideal that is almost impossible to practically achieve.", "tags": "", "url": "index.html#2.9.rbdkv.6hdgt.s2ayn.lqakc"},
      
