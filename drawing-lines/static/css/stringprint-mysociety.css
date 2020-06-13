@@ -36,7 +36,7 @@ color: #333333;
 background-color: #FFD836;
 }
 .navbar-default {
-    background-color: #4FADED;
+    background-color: #207cba;
 }
 
 .navbar-default .navbar-nav > .active > a, 
@@ -44,12 +44,12 @@ background-color: #FFD836;
 .navbar-default .navbar-nav > .active > a:focus {
     font-weight:600;
     color: #FFFFFF;
-    background-color: #4FADED;
+    background-color: #207cba;
 }
 
 .navbar-default .navbar-toggle:hover,
 .navbar-default .navbar-toggle:focus {
-    background-color: #4FADED;
+    background-color: #207cba;
 }
 
 .navbar-default .navbar-nav > li > a:hover, 
@@ -57,7 +57,7 @@ background-color: #FFD836;
     color: #FFFFFF;
 }
 .navbar-default .navbar-nav > .open > a, .navbar-default .navbar-nav > .open > a:hover, .navbar-default .navbar-nav > .open > a:focus {
-    background-color:#4FADED;
+    background-color:#207cba;
 }
 
 .dropdown-menu{
