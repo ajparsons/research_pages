@@ -8,7 +8,7 @@ var tipuesearch = {"pages": [
      
      
      
-     {"title": "Introduction", "text": "There&#39;s nothing modern about the idea that people might lie and mislead to win elections. Looking back at historical elections for a quiet era of civility is often a disappointment. Disinformation makes democracy worse, but it&#39;s always been there. What can you really do about it?", "tags": "", "url": "index.html#2.4777.qevhx.1y_tf.or8-g.sobhg"},
+     {"title": "Introduction", "text": "There is nothing modern about the idea that people might lie and mislead to win elections. Looking back at historical elections for a quiet era of civility is often a disappointment. Disinformation makes democracy worse, but it&#39;s always been there. What can you really do about it?", "tags": "", "url": "index.html#2.4777.enezy.zlulg.or8-g.gzozi"},
      
      {"title": "Introduction", "text": "On the other hand, it would once have been said you can&#39;t do much about the snake oil salesman, and we&#39;ve made progress at clawing back advertising space for the public good. If a product is marketed as a high-tech water-finding device but turns out to be a stick, you can challenge the advert. Your complaint will be dealt with formally; serious people will sit in a room and review the evidence and, if they agree with you, will stop that company from re-running the advert. It&#39;s not perfect, but it&#39;s much better than nothing. ", "tags": "", "url": "index.html#2.3056.sxb7j.8xkac.ri44d.nrufl"},
      
