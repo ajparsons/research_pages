@@ -31,6 +31,12 @@ p {
 }
 
 
+.header-icon > a:focus {
+    color: #fff;
+}
+
+
+
 .navbar-default .navbar-nav > li.active > a {
 	background-color:#fff;
     color: #000;
