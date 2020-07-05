@@ -1,0 +1,176 @@
+
+hr {
+border-top: 1px solid #756969;
+width:50%
+}
+
+.blockquote{
+background-color:#ffebc5;
+border-left: 10px solid #cec5a2;
+}
+
+p {
+	padding-left:5px;
+	padding-right:5px;
+}
+
+
+.navbar-default {
+  background-color: #797A9E;	
+  border-color:#797A9E;
+}
+
+.navbar-default .navbar-toggle .icon-bar {
+	background-color:#fff;
+}
+
+
+.header-icon{
+	color: #fff;
+	background-color:  #797A9E;
+}
+
+
+.header-icon > a:focus {
+    color: #fff;
+}
+
+
+
+.navbar-default .navbar-nav > li.active > a {
+	background-color:#fff;
+    color: #000;
+}
+
+.navbar-default .navbar-nav > li.active > a:visited {
+    color: #000;
+}
+
+.navbar-default .navbar-nav > li > a:active {
+    color: #fff;
+}
+
+.navbar-default .navbar-nav > li > a {
+    color: #fff;
+}
+.navbar-default .navbar-nav > li > a:visited {
+    color: #fff;
+}
+
+.navbar-default .navbar-nav > li > a:active {
+    color: #fff;
+}
+
+.navbar-default .navbar-nav > li > a:hover {
+    color: #dadada;
+}
+
+.navbar-default .navbar-brand {
+	color:#fff;
+}
+
+
+.navbar-default .navbar-brand:hover {
+    color: #dadada;
+}
+
+
+a {
+color:#174F91;
+}
+
+.footnote_list> p {
+    text-align: left;
+}
+
+a.expand-footnotes{
+color: #174F91;
+}
+
+
+
+body, .content-row, .footnote_list, .index, .page-content, .section-anchor>h1{
+background-color: #F8F8FF;
+}
+
+body {
+font-size: 12pt;
+}
+
+
+.page-content {
+	height:100%;
+	width: 66.66666667%;
+    margin-left: 16.66666667%;
+    margin-right: 20px;
+}
+
+.content-row, p.byline, p.other-formats-text, .icon-link, #tipue_search_content{
+background-color: #F8F8FF;
+}
+
+.header-icon{
+background-color: inherit;
+}
+
+.index::after {
+display: none;
+}
+
+
+.other-formats-text{
+	font-style: normal;
+}
+
+p.byline, p.other-formats-text, p.article_title{
+  background-color: #F8F8FF;
+  padding-left: calc(50vw - 50% - 5px);
+  margin-left:  calc(50% - 50vw + 5px);
+  padding-right: calc(50vw - 50% - 5px);
+  margin-right:  calc(50% - 50vw + 5px);
+}
+
+.content-row, .footnote_list{
+padding: 5px;
+}
+
+#article_title{
+	margin-bottom:0px;
+	font-size: 2.2em;
+}
+
+#article_subtitle {
+	padding:0px;
+	margin-top:5px;
+}
+
+
+
+@media (max-width: 767px) {
+	
+	
+.header-text {
+	width: 100%;
+	margin-left:0%;
+}
+
+	
+p.byline, p.other-formats-text, p.article_title, h1, h2, h3{
+  padding-left: inherit;
+  margin-left:  inherit;
+  padding-right: inherit;
+  margin-right:  inherit;
+}
+
+.content-row, .footnote_list{
+  padding: inherit;
+}
+
+{
+
+h1#toc{
+  padding-left: 20px;
+  margin-left:  20px;
+  padding-right: 20px;
+  margin-right:  20px;
+}
