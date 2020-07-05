@@ -94,7 +94,7 @@ var tipuesearch = {"pages": [
      
      {"title": "Citizens vs registered voters", "text": "A 1998 survey found a number of reasons given by ethnic minority respondents for not being registered:", "tags": "", "url": "index.html#3.43.b5czq.hiupa.qp79a.itv-l"},
      
-     {"title": "Citizens vs registered voters", "text": "As far as the reasons for non-registration are concerned, some respondents mentioned the doubt about their residence status. Other reasons included the language difficulty and the fear of racial harassment and racial attacks from extreme right-wing groups who could identify Chinese, South Asians and others from their names on the electoral register.^12", "tags": "", "url": "index.html#3.44.u2pgi.e4fif.0eghm.ar-fe"},
+     {"title": "Citizens vs registered voters", "text": "As far as the reasons for non-registration are concerned, some respondents mentioned the doubt about their residence status. Other reasons included the language difficulty and the fear of racial harassment and racial attacks from extreme right-wing groups who could identify Chinese, South Asians and others from their names on the electoral register.^12", "tags": "", "url": "index.html#3.44.m7dzb.kanka.f5vur.znww8"},
      
      {"title": "Citizens vs registered voters", "text": "A lack of awareness that non-British Commonwealth citizens are eligible to vote is likely to be a driver, but perceived risks of registration are worth noting. Regardless of the exact factors in each case, some citizens face higher barriers to registration than others. ", "tags": "", "url": "index.html#3.45.co6av.ebxek.e3m8r.ytada"},
      
