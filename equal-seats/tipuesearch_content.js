@@ -165,7 +165,7 @@ var tipuesearch = {"pages": [
      {"title": "2019 electorate vs 2019 population", "text": "asset:word-asset-2", "tags": "", "url": "index.html#4.49.j1p3s.nfuzc.oxihc.2jmj7"},
      
 	 
-     {"title": "2019 electorate vs 2019 population", "text": "Chart A - Constituency voting weights based on 2019 register. Explore on Flourish.", "tags": "", "url": "index.html#4.50.mex61.j8k3c.yckmp.tpwrq"},
+     {"title": "2019 electorate vs 2019 population", "text": "Chart 1 - Constituency voting weights based on 2019 register. Explore on Flourish.", "tags": "", "url": "index.html#4.50.1nfny.nidk7.yckmp.08ubx"},
      
 	 
      {"title": "Electoral register and population over time", "text": "The same general pattern holds in the 2015 and 2017 elections. Table 2 shows the difference between the status quo and weighting on the electoral register in the last few elections for the four largest parties This shows that this weighting on the electoral register is consistently to the Conservative party&#39;s advantage. Running the same analysis with population data (Table 3) shows the reverse and Labour benefits from the redistribution. In both cases part of the benefit comes from reducing the slight over-representation of Scotland in the current boundaries (and in the 2015 and 2019 election, this is mostly a problem for the SNP). ", "tags": "", "url": "index.html#the-effect-on-previous-elections-electoral-register-and-population-over-time"},
